@@ -1,0 +1,18 @@
+# Working plans, research, machine configuration, and downloaded inputs
+/local/
+/research/
+/plans/
+/models/
+
+# Generated output
+/out/
+/build*/
+/.cache/
+/compile_commands.json
+__pycache__/
+.DS_Store
+
+# Credentials
+.env
+.env.*
+!.env.example

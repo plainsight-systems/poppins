@@ -1,0 +1,3 @@
+# Default for the coordinating session; explicit session settings may override it.
+model = "gpt-6-astra"
+model_reasoning_effort = "xhigh"
